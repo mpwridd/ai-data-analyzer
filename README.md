@@ -1,3 +1,11 @@
+# AI Agent App - Powered by Mimo v2.5 Pro
+
+## Dashboard Preview
+
+![Dashboard](screenshot.png)
+
+---
+
 # AI Data Analyzer
 
 A modern AI-powered data analysis dashboard built with Next.js 14, TypeScript, and Tailwind CSS. Upload CSV or JSON files, preview data, get AI-generated insights, and visualize your data with interactive charts.
